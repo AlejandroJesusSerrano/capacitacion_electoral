@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@400;700&family=Lora:ital,wght@1,400;1,600&family=Montserrat:wght@500;600;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-logo{
+  width: 25rem;
+}
+
+.page-title{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.card-title{
+  font-family: ;
+}

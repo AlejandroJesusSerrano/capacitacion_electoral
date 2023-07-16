@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@400;700&family=Lora:ital,wght@1,400;1,600&family=Montserrat:wght@500;600;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-logo{
+  width: 25rem;
+}
+
+.page-title{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.card-img-top{
+  width: 3rem;
+}
+
+.card-header{
+  font-family: 'Lora', serif;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.card-title{
+  font-family: 'Hind Madurai', sans-serif;
+  font-size: 1.25rem;
+}
+
+.card-text{
+  font-family: 'Hind Madurai', sans-serif;
+  font-size: 1rem;
+}
+
+.btn-icon{
+  width: 4rem;
+}
